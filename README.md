@@ -25,11 +25,15 @@
 
 <br/>
 
-| 🎓 **Education** | 🏆 **Achievements** | 📜 **Certifications** | 💼 **Status** |
-|:---:|:---:|:---:|:---:|
-| B.Sc Software Engineering | 3 Competition Wins | 6+ Certifications | Open to Opportunities |
-| STMU Islamabad · 2023–Present | NAMAL · CUST · STMU | Google · JP Morgan | Internships & Research |
-| **CGPA: 3.92 / 4.00** | **5 Awards Total** | **Active Learner** | 📍 Islamabad, PK |
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> &nbsp; **Hi there! I'm Huda — welcome to my GitHub!** &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+
+<br/>
+
+| 🎓 **Education** | 💼 **Status** | 📍 **Location** |
+|:---:|:---:|:---:|
+| B.Sc Software Engineering | Open to Opportunities | Islamabad, Pakistan |
+| STMU Islamabad · 2023–Present | Internships & Research | 🇵🇰 |
+| **CGPA: 3.92 / 4.00** | **🚀 Available for Hire** | huda.usman202@gmail.com |
 
 </div>
 
