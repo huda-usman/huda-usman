@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Huda%20Usman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Robotics&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=👩‍💻+Software+Engineer+%7C+AI+Enthusiast;🧠+Merging+SE+×+AI+×+Innovation;💡+Learn%2C+Lead%2C+Make+an+Impact;🏆+Award-Winning+Developer+%7C+CGPA+3.92;🤖+Where+Code+Meets+Hardware+—+Raspberry+Pi+·+Arduino;🚀+Turning+ideas+into+intelligent+systems" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=👩‍💻+Software+Engineer+%7C+AI+Enthusiast;🧠+Merging+SE+×+AI+×+Innovation;💡+Learn%2C+Lead%2C+Make+an+Impact;🏆+Award-Winning+Developer+%7C+CGPA+3.92;🤖+Where+Code+Meets+Hardware+—+Raspberry+Pi+·+Arduino;🚀+Turning+ideas+into+intelligent+systems" alt="Typing SVG" />
 
 <br/>
 
