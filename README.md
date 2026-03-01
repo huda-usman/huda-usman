@@ -19,20 +19,22 @@
 
 ## 👩‍💻 About Me
 
-🎓 &nbsp;**B.Sc Software Engineering** — STMU Islamabad · 2023–Present · CGPA: **3.92 / 4.00**
+Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA**, passionate about merging **Software Engineering × AI × Innovation**. I bring hands-on experience in machine learning, autonomous robotics, and embedded systems — from training CNNs to building award-winning robots. I thrive in multidisciplinary environments where engineering discipline meets creative problem-solving, and I'm actively seeking opportunities to make a real-world impact.
 
-💼 &nbsp;**Open to** Internships & Research Opportunities
+📍 Islamabad, Pakistan &nbsp;|&nbsp; 💼 Open to Internships & Research
 
-📍 &nbsp;**Based in** Islamabad, Pakistan 🇵🇰
+<br/>
 
 ### 💡 What I'm Passionate About
 
-| | |
-|---|---|
-| 🧠 &nbsp;**AI & Machine Learning** — CNNs · Deep Learning · NLP | 🧪 &nbsp;**Quality Assurance** — Jira · TestRail · Katalon |
-| 🦾 &nbsp;**Robotics & Embedded Systems** — Arduino · Raspberry Pi | 📐 &nbsp;**System Modeling** — SRS · SDS · Requirements |
-| 🏗️ &nbsp;**Software Design & Architecture** — OOAD · UML | 🔨 &nbsp;**SW Construction** — Python · Java · React |
-| 🔄 &nbsp;**Agile & SDLC** — Scrum · Sprints · Planning | ☁️ &nbsp;**DevOps & Cloud** — Linux · CI/CD · AWS |
+- 🧠 &nbsp;**AI & Machine Learning** — CNNs · Deep Learning · NLP
+- 🦾 &nbsp;**Robotics & Embedded Systems** — Arduino · Raspberry Pi
+- 🏗️ &nbsp;**Software Design & Architecture** — OOAD · UML
+- 🔄 &nbsp;**Agile & SDLC** — Scrum · Sprints · Planning
+- 🧪 &nbsp;**Quality Assurance** — Jira · TestRail · Katalon
+- 📐 &nbsp;**System Modeling** — SRS · SDS · Requirements
+- 🔨 &nbsp;**SW Construction** — Python · Java · React
+- ☁️ &nbsp;**DevOps & Cloud** — Linux · CI/CD · AWS
 
 ---
 
