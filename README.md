@@ -1,21 +1,18 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Huda%20Usman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Robotics&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0a1e,50:2d1b69,100:7c3aed&height=200&section=header&text=Huda%20Usman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Robotics&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%F0%9F%8F%97%EF%B8%8F+From+Requirements+to+Reality;%F0%9F%A7%A0+Merging+SE+%C3%97+AI+%C3%97+Innovation;%F0%9F%92%A1+Learn%2C+Lead%2C+Make+an+Impact;%F0%9F%8F%86+Award-Winning+Developer+%7C+5+Awards;%F0%9F%A4%96+Where+Code+Meets+Hardware+%7C+Robotics;%F0%9F%9A%80+Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=c084fc&center=true&vCenter=true&width=650&lines=%F0%9F%8F%97%EF%B8%8F+From+Requirements+to+Reality;%F0%9F%A7%A0+Merging+SE+%C3%97+AI+%C3%97+Innovation;%F0%9F%92%A1+Learn%2C+Lead%2C+Make+an+Impact;%F0%9F%8F%86+Award-Winning+Developer+%7C+5+Awards;%F0%9F%A4%96+Where+Code+Meets+Hardware+%7C+Robotics;%F0%9F%9A%80+Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hudausman010-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hudausman010)
-[![Email](https://img.shields.io/badge/Email-huda.usman202@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huda.usman202@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-huda--usman-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huda-usman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hudausman010-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hudausman010)
+[![Email](https://img.shields.io/badge/Email-huda.usman202@gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huda.usman202@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-huda--usman-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huda-usman)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👩‍💻 About Me
 
@@ -24,8 +21,6 @@
 I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** who genuinely loves what she builds — from training CNNs to wiring up award-winning robots. I believe the best software isn't just functional, it's *intelligent*, and that's exactly where **SE meets AI** in everything I do. Whether it's designing systems from scratch, solving real-world problems with ML, or leading a team through a robotics competition — I show up, I learn fast, and I make it count.
 
 </div>
-
-
 
 ### 💡 What I'm Passionate About
 
@@ -38,9 +33,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 - 🔨 &nbsp;**SW Construction & Development**
 - ☁️ &nbsp;**DevOps & Cloud**
 
----
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Achievements & Awards
 
@@ -56,7 +49,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
 
@@ -80,25 +73,25 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-38BDF8?style=for-the-badge&labelColor=0f172a)
-![ANN](https://img.shields.io/badge/ANN-Neural%20Networks-38BDF8?style=for-the-badge&labelColor=0f172a)
-![SVM](https://img.shields.io/badge/SVM-Classification-38BDF8?style=for-the-badge&labelColor=0f172a)
-![K-Means](https://img.shields.io/badge/K--Means-Clustering-38BDF8?style=for-the-badge&labelColor=0f172a)
-![DBSCAN](https://img.shields.io/badge/DBSCAN-Clustering-38BDF8?style=for-the-badge&labelColor=0f172a)
+![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-c084fc?style=for-the-badge&labelColor=1e1040)
+![ANN](https://img.shields.io/badge/ANN-Neural%20Networks-c084fc?style=for-the-badge&labelColor=1e1040)
+![SVM](https://img.shields.io/badge/SVM-Classification-c084fc?style=for-the-badge&labelColor=1e1040)
+![K-Means](https://img.shields.io/badge/K--Means-Clustering-c084fc?style=for-the-badge&labelColor=1e1040)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-Clustering-c084fc?style=for-the-badge&labelColor=1e1040)
 
 **Embedded & Robotics**
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Ultrasonic Sensors](https://img.shields.io/badge/Ultrasonic%20Sensors-Obstacle%20Avoidance-22c55e?style=for-the-badge&labelColor=0f172a)
+![Ultrasonic Sensors](https://img.shields.io/badge/Ultrasonic%20Sensors-Obstacle%20Avoidance-a855f7?style=for-the-badge&labelColor=1e1040)
 
 **Testing & QA**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white)
 ![Katalon](https://img.shields.io/badge/Katalon-1DB954?style=for-the-badge&logoColor=white)
-![Testomat](https://img.shields.io/badge/Testomat-a855f7?style=for-the-badge&labelColor=0f172a)
+![Testomat](https://img.shields.io/badge/Testomat-ec4899?style=for-the-badge&labelColor=1e1040)
 
 **Tools & Systems**
 
@@ -107,12 +100,11 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
@@ -136,7 +128,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📜 Certifications
 
@@ -147,20 +139,20 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 - 🌐 **Networks and Network Security** — Google `2024`
 - 🐧 **Linux and SQL** — Google `2024`
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=huda-usman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huda-usman&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=huda-usman&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huda-usman&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=huda-usman&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=huda-usman&theme=midnight-purple&hide_border=true" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Leadership & Community
 
@@ -175,24 +167,22 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 > _Led society operations, hackathons, workshops, and robotics competitions. Organized cross-team events with 100+ participants._
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-<!-- Activity Graph -->
-[![Huda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huda-usman&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Huda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huda-usman&theme=github-compact&color=c084fc&line=7c3aed&point=ec4899&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:0f0a1e&height=120&section=footer"/>
 
 **⭐ If you find my work interesting, feel free to star a repo or connect on LinkedIn!**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=huda-usman&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=huda-usman&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
