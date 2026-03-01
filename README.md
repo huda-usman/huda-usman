@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Huda%20Usman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Robotics&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI+Enthusiast;Merging+SE+%C3%97+AI+%C3%97+Innovation;Learn%2C+Lead%2C+Make+an+Impact;Award-Winning+Developer+%7C+CGPA+3.92;Where+Code+Meets+Hardware+%7C+Robotics;Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%F0%9F%8E%93+CGPA+3.92+%7C+STMU+Islamabad;%F0%9F%A7%A0+Merging+SE+%C3%97+AI+%C3%97+Innovation;%F0%9F%92%A1+Learn%2C+Lead%2C+Make+an+Impact;%F0%9F%8F%86+Award-Winning+Developer+%7C+5+Awards;%F0%9F%A4%96+Where+Code+Meets+Hardware+%7C+Robotics;%F0%9F%9A%80+Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
 
 <br/>
 
