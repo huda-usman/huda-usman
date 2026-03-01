@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### ✦ *"Designing the future: Software Engineering × Artificial Intelligence × Innovation."* ✦
+### ✦ *"Plan it. Build it. Ship it. Improve it."* ✦
 
 <br/>
 
