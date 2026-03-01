@@ -109,21 +109,140 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 <div align="center">
 
-| Project | Description | Tech |
-|---|---|---|
-| 💧 **Water Extractor from Air** | Extracts moisture from air and converts it into water droplets using a heatsink and Peltier module | Hardware · Peltier · Embedded |
-| 🤖 **Robot Without Boundaries** | Multifunctional robot with face detection, obstacle avoidance & remote control | Raspberry Pi 5, Python, OpenCV |
-| 🕵️ **DeepFake Image Detector** | Real-time CNN system to detect AI-generated fake images | Python, PyTorch, CNN |
-| 🧠 **Handwritten Digit Recognition** | CNN-based OCR with GUI for single/double-digit recognition | Python, TensorFlow, Tkinter |
-| 💊 **Medical AI Chatbot** | Health assistant chatbot using OpenAI API with OOAD design principles | Python, Tkinter, OpenAI API |
-| 👗 **VirtualFit** | Android app for virtual clothing try-on with Firebase auth & size estimation API | Java, Android Studio, Firebase |
-| 🗺️ **PathFinder** | React web app to visualize complex folder hierarchies with recursive components | React, JavaScript |
-| 🏎️ **Maze-Solving Robot** | Autonomous robot solving mazes via ultrasonic sensors & pathfinding | Arduino, C++, Ultrasonic Sensors |
-| 🔐 **Wazuh Security Integration** | Real-time threat detection across Windows, macOS & Linux with dashboards | Wazuh, Linux, SIEM |
-| 📅 **Intelligent STMU Timetable System** | Client requirement gathering · BRD & SRS documentation · requirement validation & completeness | SE · SRS · BRD |
-| 🧩 **Sudoku Solver Game** | Modular Java game with recursive backtracking · OOP architecture · input validation · hints & difficulty levels | Java · OOP · Algorithms |
-| 🎤 **Speech Practice Arena** | Usability evaluation using Nielsen's Heuristics on Yoodli · paper & interactive prototyping · think-aloud testing | Figma · Usability Testing |
-| 🧠 **Virtual Counselling System** | UML modeling · system documentation · manual testing for academic, mental health & parental counselling | UML · SRS · Manual Testing |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💧 Water Extractor from Air
+Extracts moisture from air and converts it into water droplets using a heatsink and Peltier module.
+
+![Hardware](https://img.shields.io/badge/Hardware-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![Peltier](https://img.shields.io/badge/Peltier-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![Embedded](https://img.shields.io/badge/Embedded-f5f0e8?style=flat-square&labelColor=1e3a5f)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Robot Without Boundaries
+Multifunctional robot with face detection, obstacle avoidance & remote control — **Best Project Award, NAMAL 2025**.
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![Python](https://img.shields.io/badge/Python-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![OpenCV](https://img.shields.io/badge/OpenCV-f5f0e8?style=flat-square&labelColor=1e3a5f)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ DeepFake Image Detector
+Real-time CNN system to detect AI-generated fake images with high accuracy.
+
+![Python](https://img.shields.io/badge/Python-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![PyTorch](https://img.shields.io/badge/PyTorch-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![CNN](https://img.shields.io/badge/CNN-f5f0e8?style=flat-square&labelColor=1e3a5f)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Handwritten Digit Recognition
+CNN-based OCR with GUI for single/double-digit recognition using TensorFlow.
+
+![Python](https://img.shields.io/badge/Python-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![Tkinter](https://img.shields.io/badge/Tkinter-f5f0e8?style=flat-square&labelColor=1e3a5f)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💊 Medical AI Chatbot
+Health assistant chatbot using OpenAI API with OOAD design principles and clean UI.
+
+![Python](https://img.shields.io/badge/Python-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![OpenAI](https://img.shields.io/badge/OpenAI%20API-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![Tkinter](https://img.shields.io/badge/Tkinter-f5f0e8?style=flat-square&labelColor=1e3a5f)
+
+</td>
+<td width="50%" valign="top">
+
+### 👗 VirtualFit
+Android app for virtual clothing try-on with Firebase auth & size estimation API.
+
+![Java](https://img.shields.io/badge/Java-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![Firebase](https://img.shields.io/badge/Firebase-f5f0e8?style=flat-square&labelColor=1e3a5f)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏎️ Maze-Solving Robot
+Autonomous robot solving mazes via ultrasonic sensors & pathfinding — **1st Place, CUST 2024**.
+
+![Arduino](https://img.shields.io/badge/Arduino-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![C++](https://img.shields.io/badge/C++-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![Sensors](https://img.shields.io/badge/Ultrasonic-f5f0e8?style=flat-square&labelColor=1e3a5f)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Wazuh Security Integration
+Real-time threat detection across Windows, macOS & Linux with dashboards and SIEM.
+
+![Wazuh](https://img.shields.io/badge/Wazuh-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![Linux](https://img.shields.io/badge/Linux-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![SIEM](https://img.shields.io/badge/SIEM-f5f0e8?style=flat-square&labelColor=1e3a5f)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Sudoku Solver Game
+Modular Java game with recursive backtracking, OOP architecture, hints & difficulty levels.
+
+![Java](https://img.shields.io/badge/Java-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![OOP](https://img.shields.io/badge/OOP-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![Algorithms](https://img.shields.io/badge/Algorithms-f5f0e8?style=flat-square&labelColor=1e3a5f)
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 Intelligent STMU Timetable System
+Client requirement gathering · BRD & SRS documentation · requirement validation & completeness.
+
+![SE](https://img.shields.io/badge/SE-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![SRS](https://img.shields.io/badge/SRS-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![BRD](https://img.shields.io/badge/BRD-f5f0e8?style=flat-square&labelColor=1e3a5f)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎤 Speech Practice Arena
+Usability evaluation using Nielsen's Heuristics on Yoodli · paper & interactive prototyping · think-aloud testing.
+
+![Figma](https://img.shields.io/badge/Figma-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![UX](https://img.shields.io/badge/UX%20Research-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![Usability](https://img.shields.io/badge/Usability%20Testing-f5f0e8?style=flat-square&labelColor=1e3a5f)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Virtual Counselling System
+UML modeling · system documentation · manual testing for academic, mental health & parental counselling.
+
+![UML](https://img.shields.io/badge/UML-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![SRS](https://img.shields.io/badge/SRS-f5f0e8?style=flat-square&labelColor=1e3a5f)
+![Testing](https://img.shields.io/badge/Manual%20Testing-f5f0e8?style=flat-square&labelColor=1e3a5f)
+
+</td>
+</tr>
+</table>
 
 </div>
 
