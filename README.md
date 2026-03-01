@@ -120,6 +120,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 | Project | Description | Tech |
 |---|---|---|
+| 💧 **Water Extractor from Air** | Extracts moisture from air and converts it into water droplets using a heatsink and Peltier module | Hardware · Peltier · Embedded |
 | 🤖 **Robot Without Boundaries** | Multifunctional robot with face detection, obstacle avoidance & remote control | Raspberry Pi 5, Python, OpenCV |
 | 🕵️ **DeepFake Image Detector** | Real-time CNN system to detect AI-generated fake images | Python, PyTorch, CNN |
 | 🧠 **Handwritten Digit Recognition** | CNN-based OCR with GUI for single/double-digit recognition | Python, TensorFlow, Tkinter |
