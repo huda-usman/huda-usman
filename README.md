@@ -19,15 +19,11 @@
 
 ## 👩‍💻 About Me
 
-👋
-
 🎓 &nbsp;**B.Sc Software Engineering** — STMU Islamabad · 2023–Present · CGPA: **3.92 / 4.00**
 
 💼 &nbsp;**Open to** Internships & Research Opportunities
 
 📍 &nbsp;**Based in** Islamabad, Pakistan 🇵🇰
-
-<br/>
 
 ### 💡 What I'm Passionate About
 
