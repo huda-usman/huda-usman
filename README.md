@@ -27,48 +27,6 @@
 
 <br/>
 
-<table border="0" cellpadding="8" cellspacing="0">
-<tr>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/🎓 Education-0f172a?style=flat-square" /><br/>
-    <b>B.Sc Software Engineering</b><br/>
-    <sub>STMU Islamabad · 2023–Present</sub><br/>
-    <img src="https://img.shields.io/badge/CGPA-3.92%2F4.00-38BDF8?style=flat-square&labelColor=1e293b"/>
-  </td>
-  <td width="12"></td>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/🏆 Achievements-0f172a?style=flat-square" /><br/>
-    <b>3 Competition Wins</b><br/>
-    <sub>NAMAL · CUST · STMU</sub><br/>
-    <img src="https://img.shields.io/badge/Awards-5%20Total-a855f7?style=flat-square&labelColor=1e293b"/>
-  </td>
-  <td width="12"></td>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/📜 Certifications-0f172a?style=flat-square" /><br/>
-    <b>6+ Certifications</b><br/>
-    <sub>Google · JP Morgan</sub><br/>
-    <img src="https://img.shields.io/badge/Status-Active%20Learner-22c55e?style=flat-square&labelColor=1e293b"/>
-  </td>
-  <td width="12"></td>
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/💼 Status-0f172a?style=flat-square" /><br/>
-    <b>Open to Opportunities</b><br/>
-    <sub>Internships · Research</sub><br/>
-    <img src="https://img.shields.io/badge/📍-Islamabad%2C%20PK-f59e0b?style=flat-square&labelColor=1e293b"/>
-  </td>
-</tr>
-</table>
-
-<br/>
-
-## 👩‍💻 About Me
-
-<div align="center">
-
-### ✦ *"Designing the future: Software Engineering × Artificial Intelligence × Innovation."* ✦
-
-<br/>
-
 | 🎓 **Education** | 🏆 **Achievements** | 📜 **Certifications** | 💼 **Status** |
 |:---:|:---:|:---:|:---:|
 | B.Sc Software Engineering | 3 Competition Wins | 6+ Certifications | Open to Opportunities |
