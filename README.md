@@ -27,14 +27,12 @@
 
 ### 💡 What I'm Passionate About
 
-🧠 &nbsp;**AI & Machine Learning** — CNNs · Deep Learning · NLP<br/>
-🦾 &nbsp;**Robotics & Embedded Systems** — Arduino · Raspberry Pi<br/>
-🏗️ &nbsp;**Software Design & Architecture** — OOAD · UML<br/>
-🔄 &nbsp;**Agile & SDLC** — Scrum · Sprints · Planning<br/>
-🧪 &nbsp;**Quality Assurance** — Jira · TestRail · Katalon<br/>
-📐 &nbsp;**System Modeling** — SRS · SDS · Requirements<br/>
-🔨 &nbsp;**SW Construction** — Python · Java · React<br/>
-☁️ &nbsp;**DevOps & Cloud** — Linux · CI/CD · AWS<br/>
+| | |
+|---|---|
+| 🧠 &nbsp;**AI & Machine Learning** — CNNs · Deep Learning · NLP | 🧪 &nbsp;**Quality Assurance** — Jira · TestRail · Katalon |
+| 🦾 &nbsp;**Robotics & Embedded Systems** — Arduino · Raspberry Pi | 📐 &nbsp;**System Modeling** — SRS · SDS · Requirements |
+| 🏗️ &nbsp;**Software Design & Architecture** — OOAD · UML | 🔨 &nbsp;**SW Construction** — Python · Java · React |
+| 🔄 &nbsp;**Agile & SDLC** — Scrum · Sprints · Planning | ☁️ &nbsp;**DevOps & Cloud** — Linux · CI/CD · AWS |
 
 ---
 
