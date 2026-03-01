@@ -19,15 +19,7 @@
 
 ## 👩‍💻 About Me
 
-<div align="center">
-
-### ✦ *"Plan it. Build it. Ship it. Improve it."* ✦
-
-</div>
-
-<br/>
-
-👋 &nbsp;**Hi there! I'm Huda!**
+👋
 
 🎓 &nbsp;**B.Sc Software Engineering** — STMU Islamabad · 2023–Present · CGPA: **3.92 / 4.00**
 
