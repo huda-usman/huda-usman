@@ -21,22 +21,21 @@
 
 ## 👩‍💻 About Me
 
-```python
-class HudaUsman:
-    def __init__(self):
-        self.role       = "Software Engineering Undergraduate"
-        self.university = "Shifa Tameer-e-Millat University, Islamabad"
-        self.cgpa       = 3.92
-        self.interests  = ["Artificial Intelligence", "Robotics", "Embedded Systems", "Cybersecurity"]
-        self.currently  = "Building AI-powered solutions & award-winning robots 🤖"
-        self.looking_for = "Internships & Research Opportunities"
+🎓 **Software Engineering Undergraduate** at Shifa Tameer-e-Millat University, Islamabad — CGPA **3.92**
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together 🚀")
+🤖 Passionate about **Artificial Intelligence**, **Robotics**, **Embedded Systems**, and **Cybersecurity**
 
-me = HudaUsman()
-me.say_hi()
-```
+🔬 Currently building **AI-powered solutions** and **award-winning robots**
+
+🌱 Exploring **Deep Learning**, **Autonomous Systems**, and **Security Monitoring**
+
+💼 Actively seeking **Internships & Research Opportunities**
+
+💬 Ask me about **CNNs, Raspberry Pi projects, or anything AI/ML!**
+
+📫 Reach me at **huda.usman202@gmail.com**
+
+> _"Thanks for visiting! Let's build something amazing together 🚀"_
 
 ---
 
