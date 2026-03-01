@@ -12,7 +12,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4a0e1a&height=2"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👩‍💻 About Me
 
@@ -33,7 +33,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 - 🔨 &nbsp;**SW Construction & Development**
 - ☁️ &nbsp;**DevOps & Cloud**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4a0e1a&height=2"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Achievements & Awards
 
@@ -49,7 +49,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4a0e1a&height=2"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
 
@@ -104,7 +104,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4a0e1a&height=2"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects
 
@@ -128,7 +128,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4a0e1a&height=2"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📜 Certifications
 
@@ -139,7 +139,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 - 🌐 **Networks and Network Security** — Google `2024`
 - 🐧 **Linux and SQL** — Google `2024`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4a0e1a&height=2"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
 
@@ -152,7 +152,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
   <img src="https://streak-stats.demolab.com/?user=huda-usman&hide_border=true&background=1a0a0e&ring=8b2635&fire=f5f0e8&currStreakLabel=f5f0e8&sideLabels=e8d5c0&dates=e8d5c0&currStreakNum=f5f0e8&sideNums=f5f0e8" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4a0e1a&height=2"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Leadership & Community
 
@@ -167,7 +167,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 > _Led society operations, hackathons, workshops, and robotics competitions. Organized cross-team events with 100+ participants._
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4a0e1a&height=2"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 Contribution Snake
 
@@ -181,7 +181,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4a0e1a&height=2"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
@@ -189,7 +189,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4a0e1a&height=2"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
