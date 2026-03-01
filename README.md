@@ -27,52 +27,60 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍%20Islamabad%2C%20Pakistan-%20-0f172a?style=for-the-badge&labelColor=0f172a&color=38BDF8" />
-<img src="https://img.shields.io/badge/📫%20huda.usman202%40gmail.com-%20-0f172a?style=for-the-badge&labelColor=0f172a&color=38BDF8" />
-<img src="https://img.shields.io/badge/💼%20Open%20to%20Internships%20%26%20Research-%20-0f172a?style=for-the-badge&labelColor=0f172a&color=a855f7" />
-
-</div>
-
-<br/>
-
-### 🗺️ My Journey
-
-```
-2023 ──────────────────────────────────────────────────────────────────► Now
-
- 🎓 Joined STMU          🤖 Built my first      🏆 Won 1st Place       👑 Elected President
- Software Engineering  → Arduino Robot       → CUST Robotics        → SE Society, STMU
- CGPA: 3.92               Maze Solver           Competition            Leading 100+ students
-       │                       │                      │                       │
-       ▼                       ▼                      ▼                       ▼
-  Started learning        Dived into           Expanded into           Now merging
-  Python, Java, SE        AI/ML, CNNs,         DevOps, Cloud,         SE × AI × Innovation
-  fundamentals            Deep Learning        & Security              to build what's next 🚀
-```
-
-<br/>
-
-### 💡 What I Work With
-
-<div align="center">
-<table border="0" cellpadding="10">
+<table border="0" cellpadding="8" cellspacing="0">
 <tr>
-<td align="center">🧠</td><td><b>Artificial Intelligence & Machine Learning</b></td>
-<td align="center">🦾</td><td><b>Robotics & Embedded Systems</b></td>
-</tr>
-<tr>
-<td align="center">🏗️</td><td><b>Software Design & Architecture</b></td>
-<td align="center">🔄</td><td><b>Agile & SDLC</b></td>
-</tr>
-<tr>
-<td align="center">🧪</td><td><b>Quality Assurance & Testing</b></td>
-<td align="center">📐</td><td><b>System Modeling & Requirement Engineering</b></td>
-</tr>
-<tr>
-<td align="center">🔨</td><td><b>Software Construction & Development</b></td>
-<td align="center">☁️</td><td><b>DevOps & Cloud Computing</b></td>
+  <td align="center" width="200" style="background:#0f172a; border-radius:10px; padding:16px;">
+    <img src="https://img.shields.io/badge/-🎓 Education-0f172a?style=flat-square" /><br/>
+    <b>B.Sc Software Engineering</b><br/>
+    <sub>STMU Islamabad · 2023–Present</sub><br/>
+    <img src="https://img.shields.io/badge/CGPA-3.92%2F4.00-38BDF8?style=flat-square&labelColor=1e293b"/>
+  </td>
+  <td width="12"></td>
+  <td align="center" width="200">
+    <img src="https://img.shields.io/badge/-🏆 Achievements-0f172a?style=flat-square" /><br/>
+    <b>3 Competition Wins</b><br/>
+    <sub>NAMAL · CUST · STMU</sub><br/>
+    <img src="https://img.shields.io/badge/Awards-5%20Total-a855f7?style=flat-square&labelColor=1e293b"/>
+  </td>
+  <td width="12"></td>
+  <td align="center" width="200">
+    <img src="https://img.shields.io/badge/-📜 Certifications-0f172a?style=flat-square" /><br/>
+    <b>6+ Certifications</b><br/>
+    <sub>Google · JP Morgan</sub><br/>
+    <img src="https://img.shields.io/badge/Status-Active%20Learner-22c55e?style=flat-square&labelColor=1e293b"/>
+  </td>
+  <td width="12"></td>
+  <td align="center" width="200">
+    <img src="https://img.shields.io/badge/-💼 Status-0f172a?style=flat-square" /><br/>
+    <b>Open to Opportunities</b><br/>
+    <sub>Internships · Research</sub><br/>
+    <img src="https://img.shields.io/badge/📍-Islamabad%2C%20PK-f59e0b?style=flat-square&labelColor=1e293b"/>
+  </td>
 </tr>
 </table>
+
+<br/>
+
+<table border="0" cellpadding="10" cellspacing="0">
+<tr>
+  <td align="center" width="140"><img src="https://img.shields.io/badge/🧠 AI%20%26%20ML-1e293b?style=flat-square&logoColor=white" /></td>
+  <td align="center" width="140"><img src="https://img.shields.io/badge/🦾 Robotics-1e293b?style=flat-square" /></td>
+  <td align="center" width="140"><img src="https://img.shields.io/badge/🏗️ SW%20Design-1e293b?style=flat-square" /></td>
+  <td align="center" width="140"><img src="https://img.shields.io/badge/🔄 Agile%20%26%20SDLC-1e293b?style=flat-square" /></td>
+</tr>
+<tr>
+  <td align="center" width="140"><img src="https://img.shields.io/badge/🧪 QA%20%26%20Testing-1e293b?style=flat-square" /></td>
+  <td align="center" width="140"><img src="https://img.shields.io/badge/📐 System%20Modeling-1e293b?style=flat-square" /></td>
+  <td align="center" width="140"><img src="https://img.shields.io/badge/🔨 SW%20Construction-1e293b?style=flat-square" /></td>
+  <td align="center" width="140"><img src="https://img.shields.io/badge/☁️ DevOps%20%26%20Cloud-1e293b?style=flat-square" /></td>
+</tr>
+</table>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hudausman010)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huda.usman202@gmail.com)
+
 </div>
 
 ---
