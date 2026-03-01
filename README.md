@@ -23,48 +23,48 @@
 
 ### ✦ *"Plan it. Build it. Ship it. Improve it."* ✦
 
-<br/>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/> &nbsp; **Hi there! I'm Huda — welcome to my GitHub!** &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
-
-<br/>
-
-| 🎓 **Education** | 💼 **Status** | 📍 **Location** |
-|:---:|:---:|:---:|
-| B.Sc Software Engineering | Open to Opportunities | Islamabad, Pakistan |
-| STMU Islamabad · 2023–Present | Internships & Research | 🇵🇰 |
-| **CGPA: 3.92 / 4.00** | **🚀 Available for Hire** | huda.usman202@gmail.com |
-
 </div>
+
+<br/>
+
+<table border="0" cellpadding="10">
+<tr>
+<td valign="top" width="60%">
+
+### 👋 Hi there! I'm Huda!
+
+🎓 &nbsp;**B.Sc Software Engineering** — STMU Islamabad · 2023–Present
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CGPA: **3.92 / 4.00**
+
+💼 &nbsp;**Open to** Internships & Research Opportunities
+
+📍 &nbsp;**Based in** Islamabad, Pakistan 🇵🇰
+
+📫 &nbsp;huda.usman202@gmail.com
 
 <br/>
 
 ### 💡 What I'm Passionate About
 
-<br/>
-
-<div align="center">
-<table border="0" cellpadding="6">
-<tr>
-<td valign="top" width="50%">
-
-🧠 &nbsp;**AI & Machine Learning** — CNNs · Deep Learning · NLP<br/><br/>
-🦾 &nbsp;**Robotics & Embedded Systems** — Arduino · Raspberry Pi<br/><br/>
-🏗️ &nbsp;**Software Design & Architecture** — OOAD · UML<br/><br/>
-🔄 &nbsp;**Agile & SDLC** — Scrum · Sprints · Planning<br/><br/>
+🧠 &nbsp;**AI & Machine Learning** — CNNs · Deep Learning · NLP<br/>
+🦾 &nbsp;**Robotics & Embedded Systems** — Arduino · Raspberry Pi<br/>
+🏗️ &nbsp;**Software Design & Architecture** — OOAD · UML<br/>
+🔄 &nbsp;**Agile & SDLC** — Scrum · Sprints · Planning<br/>
+🧪 &nbsp;**Quality Assurance** — Jira · TestRail · Katalon<br/>
+📐 &nbsp;**System Modeling** — SRS · SDS · Requirements<br/>
+🔨 &nbsp;**SW Construction** — Python · Java · React<br/>
+☁️ &nbsp;**DevOps & Cloud** — Linux · CI/CD · AWS<br/>
 
 </td>
-<td valign="top" width="50%">
+<td valign="middle" align="center" width="40%">
 
-🧪 &nbsp;**Quality Assurance** — Jira · TestRail · Katalon<br/><br/>
-📐 &nbsp;**System Modeling** — SRS · SDS · Requirements<br/><br/>
-🔨 &nbsp;**SW Construction & Development** — Python · Java · React<br/><br/>
-☁️ &nbsp;**DevOps & Cloud** — Linux · CI/CD · AWS<br/><br/>
+<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="250px" />
 
 </td>
 </tr>
 </table>
-</div>
+
+---
 
 ---
 
