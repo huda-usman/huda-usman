@@ -95,10 +95,25 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-38BDF8?style=for-the-badge&labelColor=0f172a)
+![ANN](https://img.shields.io/badge/ANN-Neural%20Networks-38BDF8?style=for-the-badge&labelColor=0f172a)
+![SVM](https://img.shields.io/badge/SVM-Classification-38BDF8?style=for-the-badge&labelColor=0f172a)
+![K-Means](https://img.shields.io/badge/K--Means-Clustering-38BDF8?style=for-the-badge&labelColor=0f172a)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-Clustering-38BDF8?style=for-the-badge&labelColor=0f172a)
+
 **Embedded & Robotics**
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Ultrasonic Sensors](https://img.shields.io/badge/Ultrasonic%20Sensors-Obstacle%20Avoidance-22c55e?style=for-the-badge&labelColor=0f172a)
+
+**Testing & QA**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon-1DB954?style=for-the-badge&logoColor=white)
+![Testomat](https://img.shields.io/badge/Testomat-a855f7?style=for-the-badge&labelColor=0f172a)
 
 **Tools & Systems**
 
