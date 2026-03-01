@@ -1,18 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0a1e,50:2d1b69,100:7c3aed&height=200&section=header&text=Huda%20Usman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Robotics&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1a0a2e,70:4a1d96,100:d4af37&height=220&section=header&text=Huda%20Usman&fontSize=65&fontColor=d4af37&fontAlignY=38&desc=Software%20Engineering%20%7C%20AI%20%7C%20Robotics&descAlignY=58&descSize=20&descColor=e9d5ff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=c084fc&center=true&vCenter=true&width=650&lines=%F0%9F%8F%97%EF%B8%8F+From+Requirements+to+Reality;%F0%9F%A7%A0+Merging+SE+%C3%97+AI+%C3%97+Innovation;%F0%9F%92%A1+Learn%2C+Lead%2C+Make+an+Impact;%F0%9F%8F%86+Award-Winning+Developer+%7C+5+Awards;%F0%9F%A4%96+Where+Code+Meets+Hardware+%7C+Robotics;%F0%9F%9A%80+Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=d4af37&center=true&vCenter=true&width=650&lines=%F0%9F%8F%97%EF%B8%8F+From+Requirements+to+Reality;%F0%9F%A7%A0+Merging+SE+%C3%97+AI+%C3%97+Innovation;%F0%9F%92%A1+Learn%2C+Lead%2C+Make+an+Impact;%F0%9F%8F%86+Award-Winning+Developer+%7C+5+Awards;%F0%9F%A4%96+Where+Code+Meets+Hardware+%7C+Robotics;%F0%9F%9A%80+Turning+Ideas+into+Intelligent+Systems" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hudausman010-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hudausman010)
-[![Email](https://img.shields.io/badge/Email-huda.usman202@gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huda.usman202@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-huda--usman-a855f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huda-usman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hudausman010-d4af37?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/hudausman010)
+[![Email](https://img.shields.io/badge/Email-huda.usman202@gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huda.usman202@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-huda--usman-4a1d96?style=for-the-badge&logo=github&logoColor=d4af37)](https://github.com/huda-usman)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 👩‍💻 About Me
 
@@ -33,7 +33,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 - 🔨 &nbsp;**SW Construction & Development**
 - ☁️ &nbsp;**DevOps & Cloud**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🏆 Achievements & Awards
 
@@ -49,7 +49,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -73,25 +73,25 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-c084fc?style=for-the-badge&labelColor=1e1040)
-![ANN](https://img.shields.io/badge/ANN-Neural%20Networks-c084fc?style=for-the-badge&labelColor=1e1040)
-![SVM](https://img.shields.io/badge/SVM-Classification-c084fc?style=for-the-badge&labelColor=1e1040)
-![K-Means](https://img.shields.io/badge/K--Means-Clustering-c084fc?style=for-the-badge&labelColor=1e1040)
-![DBSCAN](https://img.shields.io/badge/DBSCAN-Clustering-c084fc?style=for-the-badge&labelColor=1e1040)
+![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-d4af37?style=for-the-badge&labelColor=1a0a2e)
+![ANN](https://img.shields.io/badge/ANN-Neural%20Networks-d4af37?style=for-the-badge&labelColor=1a0a2e)
+![SVM](https://img.shields.io/badge/SVM-Classification-d4af37?style=for-the-badge&labelColor=1a0a2e)
+![K-Means](https://img.shields.io/badge/K--Means-Clustering-d4af37?style=for-the-badge&labelColor=1a0a2e)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-Clustering-d4af37?style=for-the-badge&labelColor=1a0a2e)
 
 **Embedded & Robotics**
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Ultrasonic Sensors](https://img.shields.io/badge/Ultrasonic%20Sensors-Obstacle%20Avoidance-a855f7?style=for-the-badge&labelColor=1e1040)
+![Ultrasonic Sensors](https://img.shields.io/badge/Ultrasonic%20Sensors-Obstacle%20Avoidance-d4af37?style=for-the-badge&labelColor=1a0a2e)
 
 **Testing & QA**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white)
 ![Katalon](https://img.shields.io/badge/Katalon-1DB954?style=for-the-badge&logoColor=white)
-![Testomat](https://img.shields.io/badge/Testomat-ec4899?style=for-the-badge&labelColor=1e1040)
+![Testomat](https://img.shields.io/badge/Testomat-d4af37?style=for-the-badge&labelColor=1a0a2e)
 
 **Tools & Systems**
 
@@ -104,7 +104,26 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 📈 Skill Proficiency
+
+<div align="center">
+
+| Skill | Level |
+|:---|:---|
+| 🐍 Python | `█████████░` 90% |
+| ☕ Java | `████████░░` 80% |
+| 🧠 Machine Learning | `████████░░` 80% |
+| 🤖 Robotics & Embedded | `███████░░░` 75% |
+| ⚛️ React / JavaScript | `███████░░░` 70% |
+| 🔐 DevOps & Linux | `██████░░░░` 65% |
+| 🧪 QA & Testing | `████████░░` 80% |
+| 🏗️ Software Design & UML | `████████░░` 82% |
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -128,7 +147,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📜 Certifications
 
@@ -139,20 +158,20 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 - 🌐 **Networks and Network Security** — Google `2024`
 - 🐧 **Linux and SQL** — Google `2024`
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=huda-usman&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huda-usman&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=huda-usman&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&title_color=d4af37&icon_color=d4af37"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huda-usman&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&title_color=d4af37"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=huda-usman&theme=midnight-purple&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=huda-usman&theme=midnight-purple&hide_border=true&ring=d4af37&fire=d4af37&currStreakLabel=d4af37" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🌐 Leadership & Community
 
@@ -167,22 +186,36 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 > _Led society operations, hackathons, workshops, and robotics competitions. Organized cross-team events with 100+ participants._
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![Huda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huda-usman&theme=github-compact&color=c084fc&line=7c3aed&point=ec4899&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huda-usman/huda-usman/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huda-usman/huda-usman/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huda-usman/huda-usman/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:0f0a1e&height=120&section=footer"/>
+[![Huda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huda-usman&bg_color=0d0d0d&color=d4af37&line=7c3aed&point=d4af37&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-**⭐ If you find my work interesting, feel free to star a repo or connect on LinkedIn!**
+</div>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=huda-usman&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d4af37,50:4a1d96,100:000000&height=130&section=footer"/>
+
+**✨ If you find my work interesting, feel free to star a repo or connect on LinkedIn!**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=huda-usman&color=d4af37&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
