@@ -163,12 +163,12 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=huda-usman&show_icons=true&theme=jolly&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huda-usman&layout=compact&langs_count=8&theme=jolly&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=huda-usman&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a0a0e&title_color=f5f0e8&text_color=e8d5c0&icon_color=8b2635"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huda-usman&layout=compact&langs_count=8&hide_border=true&bg_color=1a0a0e&title_color=f5f0e8&text_color=e8d5c0"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=huda-usman&theme=jolly&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=huda-usman&hide_border=true&background=1a0a0e&ring=8b2635&fire=f5f0e8&currStreakLabel=f5f0e8&sideLabels=e8d5c0&dates=e8d5c0&currStreakNum=f5f0e8&sideNums=f5f0e8" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
