@@ -19,7 +19,11 @@
 
 ## 👩‍💻 About Me
 
+<div align="justify">
+
 I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** who genuinely loves what she builds — from training CNNs to wiring up award-winning robots. I believe the best software isn't just functional, it's *intelligent*, and that's exactly where **SE meets AI** in everything I do. Whether it's designing systems from scratch, solving real-world problems with ML, or leading a team through a robotics competition — I show up, I learn fast, and I make it count.
+
+</div>
 
 📍 Islamabad, Pakistan &nbsp;|&nbsp; 💼 Open to Internships & Research
 
