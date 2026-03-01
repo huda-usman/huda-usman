@@ -23,35 +23,35 @@
 
 <div align="center">
 
-*" I build systems that think, robots that move, and software that matters. "*
+### ✦ *"Turning ideas into intelligent systems, and dreams into deployable code."* ✦
 
 <br/>
 
 <table border="0" cellpadding="8" cellspacing="0">
 <tr>
-  <td align="center" width="200" style="background:#0f172a; border-radius:10px; padding:16px;">
-    <img src="https://img.shields.io/badge/-🎓 Education-0f172a?style=flat-square" /><br/>
+  <td align="center" width="200">
+    <img src="https://img.shields.io/badge/🎓 Education-0f172a?style=flat-square" /><br/>
     <b>B.Sc Software Engineering</b><br/>
     <sub>STMU Islamabad · 2023–Present</sub><br/>
     <img src="https://img.shields.io/badge/CGPA-3.92%2F4.00-38BDF8?style=flat-square&labelColor=1e293b"/>
   </td>
   <td width="12"></td>
   <td align="center" width="200">
-    <img src="https://img.shields.io/badge/-🏆 Achievements-0f172a?style=flat-square" /><br/>
+    <img src="https://img.shields.io/badge/🏆 Achievements-0f172a?style=flat-square" /><br/>
     <b>3 Competition Wins</b><br/>
     <sub>NAMAL · CUST · STMU</sub><br/>
     <img src="https://img.shields.io/badge/Awards-5%20Total-a855f7?style=flat-square&labelColor=1e293b"/>
   </td>
   <td width="12"></td>
   <td align="center" width="200">
-    <img src="https://img.shields.io/badge/-📜 Certifications-0f172a?style=flat-square" /><br/>
+    <img src="https://img.shields.io/badge/📜 Certifications-0f172a?style=flat-square" /><br/>
     <b>6+ Certifications</b><br/>
     <sub>Google · JP Morgan</sub><br/>
     <img src="https://img.shields.io/badge/Status-Active%20Learner-22c55e?style=flat-square&labelColor=1e293b"/>
   </td>
   <td width="12"></td>
   <td align="center" width="200">
-    <img src="https://img.shields.io/badge/-💼 Status-0f172a?style=flat-square" /><br/>
+    <img src="https://img.shields.io/badge/💼 Status-0f172a?style=flat-square" /><br/>
     <b>Open to Opportunities</b><br/>
     <sub>Internships · Research</sub><br/>
     <img src="https://img.shields.io/badge/📍-Islamabad%2C%20PK-f59e0b?style=flat-square&labelColor=1e293b"/>
@@ -61,18 +61,54 @@
 
 <br/>
 
-<table border="0" cellpadding="10" cellspacing="0">
+### 💡 What I'm Passionate About
+
+<br/>
+
+<table border="0" cellpadding="14" cellspacing="6">
 <tr>
-  <td align="center" width="140"><img src="https://img.shields.io/badge/🧠 AI%20%26%20ML-1e293b?style=flat-square&logoColor=white" /></td>
-  <td align="center" width="140"><img src="https://img.shields.io/badge/🦾 Robotics-1e293b?style=flat-square" /></td>
-  <td align="center" width="140"><img src="https://img.shields.io/badge/🏗️ SW%20Design-1e293b?style=flat-square" /></td>
-  <td align="center" width="140"><img src="https://img.shields.io/badge/🔄 Agile%20%26%20SDLC-1e293b?style=flat-square" /></td>
+  <td align="center" width="170">
+    <img src="https://img.shields.io/badge/-🧠-38BDF8?style=for-the-badge" /><br/>
+    <b>AI & Machine Learning</b><br/>
+    <sub>CNNs · Deep Learning · NLP</sub>
+  </td>
+  <td align="center" width="170">
+    <img src="https://img.shields.io/badge/-🦾-a855f7?style=for-the-badge" /><br/>
+    <b>Robotics & Embedded</b><br/>
+    <sub>Arduino · Raspberry Pi</sub>
+  </td>
+  <td align="center" width="170">
+    <img src="https://img.shields.io/badge/-🏗️-22c55e?style=for-the-badge" /><br/>
+    <b>Software Design</b><br/>
+    <sub>Architecture · OOAD · UML</sub>
+  </td>
+  <td align="center" width="170">
+    <img src="https://img.shields.io/badge/-🔄-f59e0b?style=for-the-badge" /><br/>
+    <b>Agile & SDLC</b><br/>
+    <sub>Scrum · Sprints · Planning</sub>
+  </td>
 </tr>
 <tr>
-  <td align="center" width="140"><img src="https://img.shields.io/badge/🧪 QA%20%26%20Testing-1e293b?style=flat-square" /></td>
-  <td align="center" width="140"><img src="https://img.shields.io/badge/📐 System%20Modeling-1e293b?style=flat-square" /></td>
-  <td align="center" width="140"><img src="https://img.shields.io/badge/🔨 SW%20Construction-1e293b?style=flat-square" /></td>
-  <td align="center" width="140"><img src="https://img.shields.io/badge/☁️ DevOps%20%26%20Cloud-1e293b?style=flat-square" /></td>
+  <td align="center" width="170">
+    <img src="https://img.shields.io/badge/-🧪-38BDF8?style=for-the-badge" /><br/>
+    <b>Quality Assurance</b><br/>
+    <sub>Jira · TestRail · Katalon</sub>
+  </td>
+  <td align="center" width="170">
+    <img src="https://img.shields.io/badge/-📐-a855f7?style=for-the-badge" /><br/>
+    <b>System Modeling</b><br/>
+    <sub>SRS · SDS · Requirements</sub>
+  </td>
+  <td align="center" width="170">
+    <img src="https://img.shields.io/badge/-🔨-22c55e?style=for-the-badge" /><br/>
+    <b>SW Construction</b><br/>
+    <sub>Python · Java · React</sub>
+  </td>
+  <td align="center" width="170">
+    <img src="https://img.shields.io/badge/-☁️-f59e0b?style=for-the-badge" /><br/>
+    <b>DevOps & Cloud</b><br/>
+    <sub>Linux · CI/CD · AWS</sub>
+  </td>
 </tr>
 </table>
 
