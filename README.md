@@ -21,21 +21,29 @@
 
 ## 👩‍💻 About Me
 
-🎓 **Software Engineering Undergraduate** at Shifa Tameer-e-Millat University, Islamabad — CGPA **3.92**
+<div align="center">
 
-🤖 Passionate about **Artificial Intelligence**, **Robotics**, **Embedded Systems**, and **Cybersecurity**
+### 🧬 Where **Software Engineering** meets **Artificial Intelligence** & **Innovation**
 
-🔬 Currently building **AI-powered solutions** and **award-winning robots**
+</div>
 
-🌱 Exploring **Deep Learning**, **Autonomous Systems**, and **Security Monitoring**
+---
 
-💼 Actively seeking **Internships & Research Opportunities**
+I'm **Huda** — a Software Engineering undergraduate with a **3.92 CGPA**, driven by one belief:
+> *The most powerful breakthroughs happen at the intersection of disciplined engineering and bold, creative thinking.*
 
-💬 Ask me about **CNNs, Raspberry Pi projects, or anything AI/ML!**
+I don't just write code — I build **intelligent systems** that solve real problems, from robots that navigate autonomously to AI models that detect deception in images.
 
-📫 Reach me at **huda.usman202@gmail.com**
+<br/>
 
-> _"Thanks for visiting! Let's build something amazing together 🚀"_
+🔭 **Currently:** Building AI-powered solutions & award-winning robots at STMU
+⚡ **Obsessed with:** Making machines smarter & systems more human-aware
+🌱 **Exploring:** Deep Learning, Autonomous Systems & Security Intelligence
+🏆 **Proud of:** 3 competition wins, 2 leadership roles, 6+ Google certifications
+💼 **Open to:** Internships, Research Collaborations & Innovative Projects
+📫 **Let's connect:** huda.usman202@gmail.com
+
+---
 
 ---
 
