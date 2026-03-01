@@ -27,18 +27,25 @@
 
 <br/>
 
-<table border="0" cellpadding="10">
-<tr>
-<td valign="top" width="60%">
+## 👩‍💻 About Me
 
-### 👋 Hi there! I'm Huda!
+<div align="center">
 
-🎓 &nbsp;**B.Sc Software Engineering** — STMU Islamabad · 2023–Present
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CGPA: **3.92 / 4.00**
+### ✦ *"Plan it. Build it. Ship it. Improve it."* ✦
+
+</div>
+
+<br/>
+
+👋 &nbsp;**Hi there! I'm Huda!**
+
+🎓 &nbsp;**B.Sc Software Engineering** — STMU Islamabad · 2023–Present · CGPA: **3.92 / 4.00**
 
 💼 &nbsp;**Open to** Internships & Research Opportunities
 
 📍 &nbsp;**Based in** Islamabad, Pakistan 🇵🇰
+
+<br/>
 
 ### 💡 What I'm Passionate About
 
@@ -50,15 +57,6 @@
 📐 &nbsp;**System Modeling** — SRS · SDS · Requirements<br/>
 🔨 &nbsp;**SW Construction** — Python · Java · React<br/>
 ☁️ &nbsp;**DevOps & Cloud** — Linux · CI/CD · AWS<br/>
-
-</td>
-<td valign="middle" align="center" width="40%">
-
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="220px" />
-
-</td>
-</tr>
-</table>
 
 ---
 
