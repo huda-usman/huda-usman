@@ -61,40 +61,39 @@
 
 <br/>
 
+## 👩‍💻 About Me
+
+<div align="center">
+
+### ✦ *"Designing the future: Software Engineering × Artificial Intelligence × Innovation."* ✦
+
+<br/>
+
+| 🎓 **Education** | 🏆 **Achievements** | 📜 **Certifications** | 💼 **Status** |
+|:---:|:---:|:---:|:---:|
+| B.Sc Software Engineering | 3 Competition Wins | 6+ Certifications | Open to Opportunities |
+| STMU Islamabad · 2023–Present | NAMAL · CUST · STMU | Google · JP Morgan | Internships & Research |
+| **CGPA: 3.92 / 4.00** | **5 Awards Total** | **Active Learner** | 📍 Islamabad, PK |
+
+</div>
+
+<br/>
+
 ### 💡 What I'm Passionate About
 
 <br/>
 
-<table border="0" cellpadding="18" cellspacing="4">
-<tr>
-  <td align="center" width="170">
-    <img src="https://img.shields.io/badge/🧠%20AI%20%26%20ML-CNNs%20·%20Deep%20Learning%20·%20NLP-38BDF8?style=for-the-badge&labelColor=0f172a" /><br/>
-  </td>
-  <td align="center" width="170">
-    <img src="https://img.shields.io/badge/🦾%20Robotics-Arduino%20·%20Raspberry%20Pi-a855f7?style=for-the-badge&labelColor=0f172a" /><br/>
-  </td>
-  <td align="center" width="170">
-    <img src="https://img.shields.io/badge/🏗️%20SW%20Design-Architecture%20·%20OOAD%20·%20UML-22c55e?style=for-the-badge&labelColor=0f172a" /><br/>
-  </td>
-  <td align="center" width="170">
-    <img src="https://img.shields.io/badge/🔄%20Agile%20%26%20SDLC-Scrum%20·%20Sprints%20·%20Planning-f59e0b?style=for-the-badge&labelColor=0f172a" /><br/>
-  </td>
-</tr>
-<tr>
-  <td align="center" width="170">
-    <img src="https://img.shields.io/badge/🧪%20Quality%20Assurance-Jira%20·%20TestRail%20·%20Katalon-38BDF8?style=for-the-badge&labelColor=0f172a" /><br/>
-  </td>
-  <td align="center" width="170">
-    <img src="https://img.shields.io/badge/📐%20System%20Modeling-SRS%20·%20SDS%20·%20Requirements-a855f7?style=for-the-badge&labelColor=0f172a" /><br/>
-  </td>
-  <td align="center" width="170">
-    <img src="https://img.shields.io/badge/🔨%20SW%20Construction-Python%20·%20Java%20·%20React-22c55e?style=for-the-badge&labelColor=0f172a" /><br/>
-  </td>
-  <td align="center" width="170">
-    <img src="https://img.shields.io/badge/☁️%20DevOps%20%26%20Cloud-Linux%20·%20CI%2FCD%20·%20AWS-f59e0b?style=for-the-badge&labelColor=0f172a" /><br/>
-  </td>
-</tr>
-</table>
+<div align="center">
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| 🧠 | 🦾 | 🏗️ | 🔄 |
+| **AI & Machine Learning** | **Robotics & Embedded** | **Software Design** | **Agile & SDLC** |
+| CNNs · Deep Learning · NLP | Arduino · Raspberry Pi | Architecture · OOAD · UML | Scrum · Sprints · Planning |
+| | | | |
+| 🧪 | 📐 | 🔨 | ☁️ |
+| **Quality Assurance** | **System Modeling** | **SW Construction** | **DevOps & Cloud** |
+| Jira · TestRail · Katalon | SRS · SDS · Requirements | Python · Java · React | Linux · CI/CD · AWS |
 
 </div>
 
