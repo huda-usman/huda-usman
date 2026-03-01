@@ -11,7 +11,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hudausman010-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hudausman010)
 [![Email](https://img.shields.io/badge/Email-huda.usman202@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huda.usman202@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-huda--usman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huda-usman)
+[![GitHub](https://img.shields.io/badge/GitHub-huda--usman-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huda-usman)
 
 </div>
 
@@ -40,17 +40,26 @@
 <br/>
 
 <div align="center">
+<table border="0" cellpadding="6">
+<tr>
+<td valign="top" width="50%">
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| 🧠 | 🦾 | 🏗️ | 🔄 |
-| **AI & Machine Learning** | **Robotics & Embedded** | **Software Design** | **Agile & SDLC** |
-| CNNs · Deep Learning · NLP | Arduino · Raspberry Pi | Architecture · OOAD · UML | Scrum · Sprints · Planning |
-| | | | |
-| 🧪 | 📐 | 🔨 | ☁️ |
-| **Quality Assurance** | **System Modeling** | **SW Construction** | **DevOps & Cloud** |
-| Jira · TestRail · Katalon | SRS · SDS · Requirements | Python · Java · React | Linux · CI/CD · AWS |
+🧠 &nbsp;**AI & Machine Learning** — CNNs · Deep Learning · NLP<br/><br/>
+🦾 &nbsp;**Robotics & Embedded Systems** — Arduino · Raspberry Pi<br/><br/>
+🏗️ &nbsp;**Software Design & Architecture** — OOAD · UML<br/><br/>
+🔄 &nbsp;**Agile & SDLC** — Scrum · Sprints · Planning<br/><br/>
 
+</td>
+<td valign="top" width="50%">
+
+🧪 &nbsp;**Quality Assurance** — Jira · TestRail · Katalon<br/><br/>
+📐 &nbsp;**System Modeling** — SRS · SDS · Requirements<br/><br/>
+🔨 &nbsp;**SW Construction & Development** — Python · Java · React<br/><br/>
+☁️ &nbsp;**DevOps & Cloud** — Linux · CI/CD · AWS<br/><br/>
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
