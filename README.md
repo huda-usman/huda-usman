@@ -23,7 +23,7 @@
 
 <div align="center">
 
-### ✦ *"Turning ideas into intelligent systems, and dreams into deployable code."* ✦
+### ✦ *"Designing the future: Software Engineering × Artificial Intelligence × Innovation."* ✦
 
 <br/>
 
