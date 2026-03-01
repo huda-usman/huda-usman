@@ -23,43 +23,42 @@
 
 <div align="center">
 
-<table>
+![](https://img.shields.io/badge/Software%20Engineering-×-0f2027?style=for-the-badge)
+![](https://img.shields.io/badge/Artificial%20Intelligence-×-203a43?style=for-the-badge)
+![](https://img.shields.io/badge/Innovation-✦-2c5364?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="10">
 <tr>
-<td valign="top" width="50%">
-
-### 🎓 Education
-**B.Sc. Software Engineering**
-Shifa Tameer-e-Millat University, Islamabad
-📊 CGPA: **3.92 / 4.00** | 2023 – Present
-
----
-
-### 💡 Interests
-- 🤖 Artificial Intelligence & Machine Learning
-- 🦾 Robotics & Embedded Systems
-- 🔐 Cybersecurity & Systems Monitoring
-- 💻 Software Design & Architecture
-
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/CGPA-3.92%20%2F%204.00-38BDF8?style=flat-square&labelColor=0f172a" /><br/>
+  <sub><b>🎓 STMU Islamabad</b></sub>
 </td>
-<td valign="top" width="50%">
-
-### 🚀 At a Glance
-| | |
-|---|---|
-| 🔭 Working on | AI & Robotics Projects |
-| 🌱 Learning | Deep Learning, Cloud & DevOps |
-| 🤝 Merging | Software Engineering × AI × Innovation |
-| 🏆 Awards | 3 Competition Wins |
-| 📜 Certifications | 6+ Google & JP Morgan |
-| 💼 Open to | Internships & Research |
-| 📍 Location | Islamabad, Pakistan |
-| 📫 Contact | huda.usman202@gmail.com |
-
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Awards-3%20Wins-a855f7?style=flat-square&labelColor=0f172a" /><br/>
+  <sub><b>🏆 Competitions</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Certifications-6%2B-22c55e?style=flat-square&labelColor=0f172a" /><br/>
+  <sub><b>📜 Google & JP Morgan</b></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Hire-f59e0b?style=flat-square&labelColor=0f172a" /><br/>
+  <sub><b>💼 Internships & Research</b></sub>
 </td>
 </tr>
 </table>
-
 </div>
+
+<br/>
+
+> 🤖 **AI & ML** &nbsp;|&nbsp; 🦾 **Robotics & Embedded Systems** &nbsp;|&nbsp; 🔐 **Cybersecurity** &nbsp;|&nbsp; ☁️ **DevOps & Cloud**
+
+📍 Islamabad, Pakistan &nbsp;&nbsp; 📫 huda.usman202@gmail.com
 
 ---
 
