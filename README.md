@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hudausman010-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=f5f0e8)](https://linkedin.com/in/hudausman010)
 [![Email](https://img.shields.io/badge/Email-huda.usman202@gmail.com-2d6a9f?style=for-the-badge&logo=gmail&logoColor=f5f0e8)](mailto:huda.usman202@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-huda--usman-0a1628?style=for-the-badge&logo=github&logoColor=f5f0e8)](https://github.com/huda-usman)
 
 </div>
 
