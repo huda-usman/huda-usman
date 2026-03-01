@@ -127,7 +127,10 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 | 🔐 **Wazuh Security Integration** | Real-time threat detection across Windows, macOS & Linux with dashboards | Wazuh, Linux, SIEM |
 | 💊 **Medical AI Chatbot** | Health assistant chatbot using OpenAI API with OOAD design principles | Python, Tkinter, OpenAI API |
 | 👗 **VirtualFit** | Android app for virtual clothing try-on with Firebase auth & size estimation API | Java, Android Studio, Firebase |
-| 🗺️ **PathFinder** | React web app to visualize complex folder hierarchies with recursive components | React, JavaScript |
+| 🎤 **Speech Practice Arena** | Usability evaluation using Nielsen's Heuristics on Yoodli · paper & interactive prototyping · think-aloud testing | Figma · Usability Testing |
+| 📅 **Intelligent STMU Timetable System** | Client requirement gathering · BRD & SRS documentation · requirement validation & completeness | SE · SRS · BRD |
+| 🧩 **Sudoku Solver Game** | Modular Java game with recursive backtracking · OOP architecture · input validation · hints & difficulty levels | Java · OOP · Algorithms |
+| 🧠 **Virtual Counselling System** | UML modeling · system documentation · manual testing for academic, mental health & parental counselling | UML · SRS · Manual Testing |
 
 </div>
 
