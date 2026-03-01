@@ -25,7 +25,7 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 </div>
 
-📍 Islamabad, Pakistan &nbsp;|&nbsp; 💼 Open to Internships & Research
+
 
 ### 💡 What I'm Passionate About
 
