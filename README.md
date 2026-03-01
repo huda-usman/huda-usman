@@ -143,12 +143,12 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=huda-usman&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a1628&title_color=f5f0e8&text_color=d4c5a9&icon_color=2d6a9f"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huda-usman&layout=compact&langs_count=8&hide_border=true&bg_color=0a1628&title_color=f5f0e8&text_color=d4c5a9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=huda-usman&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=f5f0e8&text_color=d4c5a9&icon_color=2d6a9f&bg_color=00000000"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huda-usman&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=f5f0e8&text_color=d4c5a9&bg_color=00000000"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=huda-usman&hide_border=true&background=0a1628&ring=2d6a9f&fire=f5f0e8&currStreakLabel=f5f0e8&sideLabels=d4c5a9&dates=d4c5a9&currStreakNum=f5f0e8&sideNums=f5f0e8" />
+  <img src="https://streak-stats.demolab.com/?user=huda-usman&hide_border=true&background=00000000&ring=2d6a9f&fire=f5f0e8&currStreakLabel=f5f0e8&sideLabels=d4c5a9&dates=d4c5a9&currStreakNum=f5f0e8&sideNums=f5f0e8" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
