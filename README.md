@@ -35,19 +35,42 @@
 
 <br/>
 
+### 🗺️ My Journey
+
+```
+2023 ──────────────────────────────────────────────────────────────────► Now
+
+ 🎓 Joined STMU          🤖 Built my first      🏆 Won 1st Place       👑 Elected President
+ Software Engineering  → Arduino Robot       → CUST Robotics        → SE Society, STMU
+ CGPA: 3.92               Maze Solver           Competition            Leading 100+ students
+       │                       │                      │                       │
+       ▼                       ▼                      ▼                       ▼
+  Started learning        Dived into           Expanded into           Now merging
+  Python, Java, SE        AI/ML, CNNs,         DevOps, Cloud,         SE × AI × Innovation
+  fundamentals            Deep Learning        & Security              to build what's next 🚀
+```
+
+<br/>
+
+### 💡 What I Work With
+
 <div align="center">
-<table border="0" cellpadding="12">
+<table border="0" cellpadding="10">
 <tr>
-<td align="center">🤖</td><td><b>Artificial Intelligence & Machine Learning</b></td>
+<td align="center">🧠</td><td><b>Artificial Intelligence & Machine Learning</b></td>
 <td align="center">🦾</td><td><b>Robotics & Embedded Systems</b></td>
 </tr>
 <tr>
-<td align="center">🔐</td><td><b>Cybersecurity & Systems Monitoring</b></td>
-<td align="center">☁️</td><td><b>DevOps & Cloud Computing</b></td>
+<td align="center">🏗️</td><td><b>Software Design & Architecture</b></td>
+<td align="center">🔄</td><td><b>Agile & SDLC</b></td>
 </tr>
 <tr>
-<td align="center">💡</td><td><b>Software Design & Architecture</b></td>
-<td align="center">🔬</td><td><b>Research & Innovation</b></td>
+<td align="center">🧪</td><td><b>Quality Assurance & Testing</b></td>
+<td align="center">📐</td><td><b>System Modeling & Requirement Engineering</b></td>
+</tr>
+<tr>
+<td align="center">🔨</td><td><b>Software Construction & Development</b></td>
+<td align="center">☁️</td><td><b>DevOps & Cloud Computing</b></td>
 </tr>
 </table>
 </div>
