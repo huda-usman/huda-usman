@@ -29,14 +29,14 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 ### 💡 What I'm Passionate About
 
-- 🧠 &nbsp;**AI & Machine Learning** — CNNs · Deep Learning · NLP
-- 🦾 &nbsp;**Robotics & Embedded Systems** — Arduino · Raspberry Pi
-- 🏗️ &nbsp;**Software Design & Architecture** — OOAD · UML
-- 🔄 &nbsp;**Agile & SDLC** — Scrum · Sprints · Planning
-- 🧪 &nbsp;**Quality Assurance** — Jira · TestRail · Katalon
-- 📐 &nbsp;**System Modeling** — SRS · SDS · Requirements
-- 🔨 &nbsp;**SW Construction** — Python · Java · React
-- ☁️ &nbsp;**DevOps & Cloud** — Linux · CI/CD · AWS
+- 🧠 &nbsp;**AI & Machine Learning**
+- 🦾 &nbsp;**Robotics & Embedded Systems**
+- 🏗️ &nbsp;**Software Design & Architecture**
+- 🔄 &nbsp;**Agile & SDLC**
+- 🧪 &nbsp;**Quality Assurance**
+- 📐 &nbsp;**System Modeling**
+- 🔨 &nbsp;**SW Construction & Development**
+- ☁️ &nbsp;**DevOps & Cloud**
 
 ---
 
