@@ -65,57 +65,36 @@
 
 <br/>
 
-<table border="0" cellpadding="14" cellspacing="6">
+<table border="0" cellpadding="18" cellspacing="4">
 <tr>
   <td align="center" width="170">
-    <img src="https://img.shields.io/badge/-🧠-38BDF8?style=for-the-badge" /><br/>
-    <b>AI & Machine Learning</b><br/>
-    <sub>CNNs · Deep Learning · NLP</sub>
+    <img src="https://img.shields.io/badge/🧠%20AI%20%26%20ML-CNNs%20·%20Deep%20Learning%20·%20NLP-38BDF8?style=for-the-badge&labelColor=0f172a" /><br/>
   </td>
   <td align="center" width="170">
-    <img src="https://img.shields.io/badge/-🦾-a855f7?style=for-the-badge" /><br/>
-    <b>Robotics & Embedded</b><br/>
-    <sub>Arduino · Raspberry Pi</sub>
+    <img src="https://img.shields.io/badge/🦾%20Robotics-Arduino%20·%20Raspberry%20Pi-a855f7?style=for-the-badge&labelColor=0f172a" /><br/>
   </td>
   <td align="center" width="170">
-    <img src="https://img.shields.io/badge/-🏗️-22c55e?style=for-the-badge" /><br/>
-    <b>Software Design</b><br/>
-    <sub>Architecture · OOAD · UML</sub>
+    <img src="https://img.shields.io/badge/🏗️%20SW%20Design-Architecture%20·%20OOAD%20·%20UML-22c55e?style=for-the-badge&labelColor=0f172a" /><br/>
   </td>
   <td align="center" width="170">
-    <img src="https://img.shields.io/badge/-🔄-f59e0b?style=for-the-badge" /><br/>
-    <b>Agile & SDLC</b><br/>
-    <sub>Scrum · Sprints · Planning</sub>
+    <img src="https://img.shields.io/badge/🔄%20Agile%20%26%20SDLC-Scrum%20·%20Sprints%20·%20Planning-f59e0b?style=for-the-badge&labelColor=0f172a" /><br/>
   </td>
 </tr>
 <tr>
   <td align="center" width="170">
-    <img src="https://img.shields.io/badge/-🧪-38BDF8?style=for-the-badge" /><br/>
-    <b>Quality Assurance</b><br/>
-    <sub>Jira · TestRail · Katalon</sub>
+    <img src="https://img.shields.io/badge/🧪%20Quality%20Assurance-Jira%20·%20TestRail%20·%20Katalon-38BDF8?style=for-the-badge&labelColor=0f172a" /><br/>
   </td>
   <td align="center" width="170">
-    <img src="https://img.shields.io/badge/-📐-a855f7?style=for-the-badge" /><br/>
-    <b>System Modeling</b><br/>
-    <sub>SRS · SDS · Requirements</sub>
+    <img src="https://img.shields.io/badge/📐%20System%20Modeling-SRS%20·%20SDS%20·%20Requirements-a855f7?style=for-the-badge&labelColor=0f172a" /><br/>
   </td>
   <td align="center" width="170">
-    <img src="https://img.shields.io/badge/-🔨-22c55e?style=for-the-badge" /><br/>
-    <b>SW Construction</b><br/>
-    <sub>Python · Java · React</sub>
+    <img src="https://img.shields.io/badge/🔨%20SW%20Construction-Python%20·%20Java%20·%20React-22c55e?style=for-the-badge&labelColor=0f172a" /><br/>
   </td>
   <td align="center" width="170">
-    <img src="https://img.shields.io/badge/-☁️-f59e0b?style=for-the-badge" /><br/>
-    <b>DevOps & Cloud</b><br/>
-    <sub>Linux · CI/CD · AWS</sub>
+    <img src="https://img.shields.io/badge/☁️%20DevOps%20%26%20Cloud-Linux%20·%20CI%2FCD%20·%20AWS-f59e0b?style=for-the-badge&labelColor=0f172a" /><br/>
   </td>
 </tr>
 </table>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hudausman010)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huda.usman202@gmail.com)
 
 </div>
 
