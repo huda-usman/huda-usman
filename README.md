@@ -255,7 +255,7 @@ UML modeling · system documentation · manual testing for academic, mental heal
 <td width="50%" valign="top">
 
 ### 📖 Text File Manipulator
-Menu-driven Java console app to perform wide-ranging operations on `.txt` files — powered by custom Stack & Singly LinkedList implementations built from scratch without Java's Collections Framework.
+Demonstrates core DSA concepts through real-world file operations — custom Stack, Arrays & Singly LinkedList powering a menu-driven Java console app.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-2E7D32?style=flat-square&logoColor=white)
