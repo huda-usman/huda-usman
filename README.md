@@ -291,7 +291,7 @@ UML modeling · system documentation · manual testing for academic, mental heal
 
 | 👑 Role | 🏛️ Organization | 📅 Duration |
 |---|---|---|
-| **President** | Software Engineering Society, STMU | 2025 – Present |
+| **President** | Shifa Software Engineering Society, STMU | 2025 – Present |
 | **Director of Event Management** | Shifa Robotics Society, STMU | 2023 – Present |
 
 </div>
