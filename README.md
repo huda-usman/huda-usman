@@ -25,29 +25,11 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 ### 💡 Skills & Interests
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🛠️ Skills**
-- 🧠 &nbsp;AI & Machine Learning
-- 🏗️ &nbsp;Software Design & Architecture
-- 🧪 &nbsp;Quality Assurance & Testing
-- 🔨 &nbsp;SW Construction & Development
-- 📐 &nbsp;System Modeling & UML
-
-</td>
-<td width="50%" valign="top">
-
-**🌟 Interests**
-- 🦾 &nbsp;Robotics & Embedded Systems
-- 🔄 &nbsp;Agile & SDLC
-- ☁️ &nbsp;DevOps & Cloud
-- 🤖 &nbsp;Generative AI & LLMs
-
-</td>
-</tr>
-</table>
+![AI & ML](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-3776AB?style=for-the-badge&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI%20%26%20LLMs-412991?style=for-the-badge&logoColor=white)
+![Software Design](https://img.shields.io/badge/Software%20Design%20%26%20Architecture-1e3a5f?style=for-the-badge&logoColor=white)
+![QA](https://img.shields.io/badge/Quality%20Assurance-2E7D32?style=for-the-badge&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps%20%26%20Cloud-0d7375?style=for-the-badge&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
