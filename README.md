@@ -95,8 +95,8 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white)
-![Katalon](https://img.shields.io/badge/Katalon-1DB954?style=for-the-badge&logoColor=white)
-![Testomat](https://img.shields.io/badge/Testomat-f5f0e8?style=for-the-badge&labelColor=2d6a9f)
+![Katalon Studio](https://img.shields.io/badge/Katalon%20Studio-1DB954?style=for-the-badge&logoColor=white)
+![Testomat.io](https://img.shields.io/badge/Testomat.io-f5f0e8?style=for-the-badge&labelColor=2d6a9f)
 
 ---
 
