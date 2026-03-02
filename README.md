@@ -51,7 +51,9 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 
 <div align="center">
 
-**Languages**
+---
+
+### 🖥️ Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -62,7 +64,9 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI / Machine Learning**
+---
+
+### 🤖 AI / Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -76,21 +80,27 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 ![K-Means](https://img.shields.io/badge/K--Means-Clustering-f5f0e8?style=for-the-badge&labelColor=1e3a5f)
 ![DBSCAN](https://img.shields.io/badge/DBSCAN-Clustering-f5f0e8?style=for-the-badge&labelColor=1e3a5f)
 
-**Embedded & Robotics**
+---
+
+### 🦾 Embedded & Robotics
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Ultrasonic Sensors](https://img.shields.io/badge/Ultrasonic%20Sensors-Obstacle%20Avoidance-f5f0e8?style=for-the-badge&labelColor=1e3a5f)
 
-**Testing & QA**
+---
+
+### 🧪 Testing & QA
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white)
 ![Katalon](https://img.shields.io/badge/Katalon-1DB954?style=for-the-badge&logoColor=white)
 ![Testomat](https://img.shields.io/badge/Testomat-f5f0e8?style=for-the-badge&labelColor=2d6a9f)
 
-**Tools & Systems**
+---
+
+### ⚙️ Tools & Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -102,6 +112,8 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 </div>
 
