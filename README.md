@@ -21,16 +21,33 @@ I'm a Software Engineering undergraduate at STMU Islamabad with a **3.92 CGPA** 
 
 </div>
 
-### 💡 What I'm Passionate About
+<br/>
 
-- 🧠 &nbsp;**AI & Machine Learning**
-- 🦾 &nbsp;**Robotics & Embedded Systems**
-- 🏗️ &nbsp;**Software Design & Architecture**
-- 🔄 &nbsp;**Agile & SDLC**
-- 🧪 &nbsp;**Quality Assurance**
-- 📐 &nbsp;**System Modeling**
-- 🔨 &nbsp;**SW Construction & Development**
-- ☁️ &nbsp;**DevOps & Cloud**
+### 💡 Skills & Interests
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛠️ Skills**
+- 🧠 &nbsp;AI & Machine Learning
+- 🏗️ &nbsp;Software Design & Architecture
+- 🧪 &nbsp;Quality Assurance & Testing
+- 🔨 &nbsp;SW Construction & Development
+- 📐 &nbsp;System Modeling & UML
+
+</td>
+<td width="50%" valign="top">
+
+**🌟 Interests**
+- 🦾 &nbsp;Robotics & Embedded Systems
+- 🔄 &nbsp;Agile & SDLC
+- ☁️ &nbsp;DevOps & Cloud
+- 🤖 &nbsp;Generative AI & LLMs
+
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
