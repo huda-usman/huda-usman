@@ -253,6 +253,14 @@ UML modeling · system documentation · manual testing for academic, mental heal
 
 </td>
 <td width="50%" valign="top">
+
+### 📖 Text File Manipulator
+Menu-driven Java console app to perform wide-ranging operations on `.txt` files — powered by custom Stack & Singly LinkedList implementations built from scratch without Java's Collections Framework.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-2E7D32?style=flat-square&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-5C6BC0?style=flat-square&logoColor=white)
+
 </td>
 </tr>
 </table>
@@ -291,7 +299,7 @@ UML modeling · system documentation · manual testing for academic, mental heal
 
 | 👑 Role | 🏛️ Organization | 📅 Duration |
 |---|---|---|
-| **President** | Shifa Software Engineering Society, STMU | 2025 – Present |
+| **President** | Software Engineering Society, STMU | 2025 – Present |
 | **Director of Event Management** | Shifa Robotics Society, STMU | 2023 – Present |
 
 </div>
