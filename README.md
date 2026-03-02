@@ -23,8 +23,7 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 
 ### 💡 Skills & Interests
 
-![AI & ML](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-3776AB?style=for-the-badge&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI%20%26%20LLMs-412991?style=for-the-badge&logoColor=white)
+![AI-Powered Systems Engineering](https://img.shields.io/badge/AI--Powered%20Systems%20Engineering-3776AB?style=for-the-badge&logoColor=white)
 ![Software Design](https://img.shields.io/badge/Software%20Design%20%26%20Architecture-1e3a5f?style=for-the-badge&logoColor=white)
 ![QA](https://img.shields.io/badge/Quality%20Assurance-2E7D32?style=for-the-badge&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps%20%26%20Cloud-0d7375?style=for-the-badge&logoColor=white)
