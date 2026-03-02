@@ -27,7 +27,7 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 ![Software Design](https://img.shields.io/badge/Software%20Design%20%26%20Architecture-1e3a5f?style=for-the-badge&logoColor=white)
 ![QA](https://img.shields.io/badge/Quality%20Assurance-2E7D32?style=for-the-badge&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps%20%26%20Cloud-0d7375?style=for-the-badge&logoColor=white)
-![Robotics](https://img.shields.io/badge/Robotics%20%26%20Embedded%20Systems-A22846?style=for-the-badge&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-A22846?style=for-the-badge&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
