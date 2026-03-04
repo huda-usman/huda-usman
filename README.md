@@ -6,7 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hudausman010-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=f5f0e8)](https://linkedin.com/in/hudausman010)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huda%20Usman-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=f5f0e8)](https://linkedin.com/in/hudausman010)
 [![Email](https://img.shields.io/badge/Email-huda.usman202@gmail.com-2d6a9f?style=for-the-badge&logo=gmail&logoColor=f5f0e8)](mailto:huda.usman202@gmail.com)
 
 </div>
