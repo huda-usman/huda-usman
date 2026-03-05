@@ -168,6 +168,7 @@ Real-time CNN system to detect AI-generated fake images with high accuracy.
 
 ### ⚡ Handwritten Digit Recognition
 Custom CNN trained on MNIST with 99.55% accuracy — draw or upload a digit for instant real-time prediction.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
