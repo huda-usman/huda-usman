@@ -166,12 +166,13 @@ Real-time CNN system to detect AI-generated fake images with high accuracy.
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Handwritten Digit Recognition
-CNN-based OCR with GUI for single/double-digit recognition using TensorFlow.
-
+### ⚡ Handwritten Digit Recognition
+Real-time digit recognition web app powered by a custom CNN trained on MNIST with 99.55% accuracy. Draw or upload an image — get instant predictions with full confidence breakdown.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-1565C0?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 </td>
 </tr>
