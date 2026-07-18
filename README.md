@@ -29,6 +29,7 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 ![QA](https://img.shields.io/badge/Quality%20Assurance-2E7D32?style=for-the-badge&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps%20%26%20Cloud-0d7375?style=for-the-badge&logoColor=white)
 ![Robotics](https://img.shields.io/badge/Robotics-A22846?style=for-the-badge&logoColor=white)
+![App Development](https://img.shields.io/badge/App%20Development-02569B?style=for-the-badge&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -60,6 +61,7 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -86,6 +88,16 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 
 ---
 
+### 📱 App Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
 ### 🦾 Embedded & Robotics
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
@@ -100,6 +112,19 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 ![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white)
 ![Katalon Studio](https://img.shields.io/badge/Katalon%20Studio-1DB954?style=for-the-badge&logoColor=white)
 ![Testomat.io](https://img.shields.io/badge/Testomat.io-f5f0e8?style=for-the-badge&labelColor=2d6a9f)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+---
+
+### 📋 Project Management
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Zoho](https://img.shields.io/badge/Zoho-C8202F?style=for-the-badge&logo=zoho&logoColor=white)
+![ProjectLibre](https://img.shields.io/badge/ProjectLibre-f5f0e8?style=for-the-badge&labelColor=2d6a9f)
 
 ---
 
