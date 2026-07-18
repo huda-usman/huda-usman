@@ -380,7 +380,7 @@ AI-powered academic & lifestyle stress assessment and monitoring system, planned
 
 </div>
 
-> _Led society operations, hackathons, workshops, and robotics competitions. Completed an internship at ISPR. Organized cross-team events with 100+ participants. Promoted community values and organized wellness and outreach programs as a youth volunteer._
+> _Led society operations, workshops, and robotics competitions. Completed an internship at ISPR. Organized cross-team events with 100+ participants. Promoted community values and organized wellness and outreach programs as a youth volunteer._
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
