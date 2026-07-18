@@ -44,6 +44,7 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 | 🥇 **1st Place** - Maze-Solving Robot | CUST Robotics Competition | 2024 |
 | 💧 **Sustainability Innovation Award** - Water Extractor from Air | STMU | 2024 |
 | 🎓 **Merit-Based Scholarship** - 80% FSc + CGPA 3.93 | STMU | Ongoing |
+| 🌟 **Double Win** - No-Code Website Design & Presentation Design | Code War HITEC 4.0 | 2026 |
 
 </div>
 
@@ -372,12 +373,13 @@ AI-powered academic & lifestyle stress assessment and monitoring system, planned
 
 | 👑 Role | 🏛️ Organization | 📅 Duration |
 |---|---|---|
-| **President** | Software Engineering Society, STMU | 2025 – Present |
-| **Director of Event Management** | Shifa Robotics Society, STMU | 2023 – Present |
+| **President** | Software Engineering Society, STMU | Aug 2025 - Apr 2026 |
+| **Intern** | ISPR | Jan 2026 - Feb 2026 |
+| **Director of Event Management** | Shifa Robotics Society, STMU | 2023 - Present |
 
 </div>
 
-> _Led society operations, hackathons, workshops, and robotics competitions. Organized cross-team events with 100+ participants._
+> _Led society operations, hackathons, workshops, and robotics competitions. Completed an internship at ISPR. Organized cross-team events with 100+ participants._
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
