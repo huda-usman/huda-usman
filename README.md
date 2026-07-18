@@ -337,6 +337,19 @@ AI-powered academic & lifestyle stress assessment and monitoring system, planned
 
 </td>
 </tr>
+<tr>
+<td width="100%" colspan="2" valign="top">
+
+### 📅 Personal Booking & Studio Management App
+Offline-first Flutter & Dart booking app for a personal styling studio. Uses Hive NoSQL for local caching, a custom conflict-detection algorithm to prevent double bookings, a screenshot-based invoice rendering engine for shareable receipts, FL Chart dashboards for revenue tracking, and timezone-aware local notifications for appointment reminders.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive%20NoSQL-FFC300?style=flat-square&logoColor=black)
+![FL Chart](https://img.shields.io/badge/FL%20Chart-4CAF50?style=flat-square&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 </div>
@@ -380,7 +393,7 @@ AI-powered academic & lifestyle stress assessment and monitoring system, planned
 
 </div>
 
-> _Led society operations, workshops, and robotics competitions. Completed an internship at ISPR. Organized cross-team events with 100+ participants. Promoted community values and organized wellness and outreach programs as a youth volunteer._
+> _Led society operations, hackathons, workshops, and robotics competitions. Completed an internship at ISPR. Organized cross-team events with 100+ participants. Promoted community values and organized wellness and outreach programs as a youth volunteer._
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
