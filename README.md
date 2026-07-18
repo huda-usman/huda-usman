@@ -18,7 +18,7 @@
 
 <div align="justify">
 
-I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a **3.93 CGPA** who genuinely loves what she builds — from training CNNs to wiring up award-winning robots. I believe the best software isn't just functional, it's *intelligent*, and that's exactly where **SE meets AI** in everything I do. Whether it's designing systems from scratch, solving real-world problems with ML, or leading a team through a robotics competition — I show up, I learn fast, and I make it count.
+I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a **3.93 CGPA** who genuinely loves what she builds - from training CNNs to wiring up award-winning robots. I believe the best software isn't just functional, it's *intelligent*, and that's exactly where **SE meets AI** in everything I do. Whether it's designing systems from scratch, solving real-world problems with ML, or leading a team through a robotics competition - I show up, I learn fast, and I make it count.
 
 </div>
 
@@ -39,11 +39,11 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 
 | 🥇 Award | 📍 Event | 📅 Year |
 |---|---|---|
-| 🏅 **Best Project Award** — Robot Without Boundaries | NAMAL Tech Expo | 2025 |
-| 🎖️ **Certificate of Appreciation** — Robotics & Freelancing Workshop Organizer | STMU | 2025 |
-| 🥇 **1st Place** — Maze-Solving Robot | CUST Robotics Competition | 2024 |
-| 💧 **Sustainability Innovation Award** — Water Extractor from Air | STMU | 2024 |
-| 🎓 **Merit-Based Scholarship** — 80% FSc + CGPA 3.93 | STMU | Ongoing |
+| 🏅 **Best Project Award** - Robot Without Boundaries | NAMAL Tech Expo | 2025 |
+| 🎖️ **Certificate of Appreciation** - Robotics & Freelancing Workshop Organizer | STMU | 2025 |
+| 🥇 **1st Place** - Maze-Solving Robot | CUST Robotics Competition | 2024 |
+| 💧 **Sustainability Innovation Award** - Water Extractor from Air | STMU | 2024 |
+| 🎓 **Merit-Based Scholarship** - 80% FSc + CGPA 3.93 | STMU | Ongoing |
 
 </div>
 
@@ -170,7 +170,7 @@ Extracts moisture from air and converts it into water droplets using a heatsink 
 <td width="50%" valign="top">
 
 ### 🤖 Robot Without Boundaries
-Multifunctional robot with face detection, obstacle avoidance & remote control — **Best Project Award, NAMAL 2025**.
+Multifunctional robot with face detection, obstacle avoidance & remote control - **Best Project Award, NAMAL 2025**.
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -192,7 +192,7 @@ Real-time CNN system to detect AI-generated fake images with high accuracy.
 <td width="50%" valign="top">
 
 ### ⚡ Handwritten Digit Recognition
-Custom CNN trained on MNIST with 99.55% accuracy — draw or upload a digit for instant real-time prediction.
+Custom CNN trained on MNIST with 99.55% accuracy - draw or upload a digit for instant real-time prediction.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -237,7 +237,7 @@ React web app to visualize complex folder hierarchies with recursive components.
 <td width="50%" valign="top">
 
 ### 🏎️ Maze-Solving Robot
-Autonomous robot solving mazes via ultrasonic sensors & pathfinding — **1st Place, CUST 2024**.
+Autonomous robot solving mazes via ultrasonic sensors & pathfinding - **1st Place, CUST 2024**.
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -303,11 +303,36 @@ UML modeling · system documentation · manual testing for academic, mental heal
 <td width="50%" valign="top">
 
 ### 📖 Text File Manipulator
-Demonstrates core DSA concepts through real-world file operations — custom Stack, Arrays & Singly LinkedList powering a menu-driven Java console app.
+Demonstrates core DSA concepts through real-world file operations - custom Stack, Arrays & Singly LinkedList powering a menu-driven Java console app.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-2E7D32?style=flat-square&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-5C6BC0?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ HK Cafe Co. - Digital Cafe & E2E Test Suite
+Premium single-page coffee ordering web app paired with a custom Selenium engine that intercepts browser events and streams real-time, color-coded diagnostic logs to the terminal.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧘 StressEQ - AI Stress Assessment & Project Management
+AI-powered academic & lifestyle stress assessment and monitoring system, planned and tracked module-by-module in ClickUp with Kanban boards, Gantt charts, dependencies, and workload dashboards.
+
+![AI](https://img.shields.io/badge/AI-3776AB?style=flat-square&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project%20Management-00838F?style=flat-square&logoColor=white)
+![SRS](https://img.shields.io/badge/SRS-6A1B9A?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -319,12 +344,12 @@ Demonstrates core DSA concepts through real-world file operations — custom Sta
 
 ## 📜 Certifications
 
-- 🤖 **Introduction to Generative AI Studio** — Google Cloud `2026`
-- 💼 **Software Engineering Job Simulation** — JP Morgan Chase & Co via Forage `2026`
-- 🧠 **AI Essentials Course** — Google `2024`
-- 🔐 **Cybersecurity Professional Certificate** — Google `2024`
-- 🌐 **Networks and Network Security** — Google `2024`
-- 🐧 **Linux and SQL** — Google `2024`
+- 🤖 **Introduction to Generative AI Studio** - Google Cloud `2026`
+- 💼 **Software Engineering Job Simulation** - JP Morgan Chase & Co via Forage `2026`
+- 🧠 **AI Essentials Course** - Google `2024`
+- 🔐 **Cybersecurity Professional Certificate** - Google `2024`
+- 🌐 **Networks and Network Security** - Google `2024`
+- 🐧 **Linux and SQL** - Google `2024`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
