@@ -43,7 +43,7 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 | 🎖️ **Certificate of Appreciation** - Robotics & Freelancing Workshop Organizer | STMU | 2025 |
 | 🥇 **1st Place** - Maze-Solving Robot | CUST Robotics Competition | 2024 |
 | 💧 **Sustainability Innovation Award** - Water Extractor from Air | STMU | 2024 |
-| 🎓 **Merit-Based Scholarship** - 80% FSc + CGPA 3.93 | STMU | Ongoing |
+| 🎓 **Merit-Based Scholarship** - 80% FSc + CGPA 3.94 | STMU | Ongoing |
 | 🌟 **Double Win** - No-Code Website Design & Presentation Design | Code War HITEC 4.0 | 2026 |
 
 </div>
