@@ -6,6 +6,7 @@
 
 <br/>
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Huda%20Usman-1e3a5f?style=for-the-badge&logo=linkedin&logoColor=f5f0e8)](https://linkedin.com/in/hudausman010)
 [![Email](https://img.shields.io/badge/Email-huda.usman202@gmail.com-2d6a9f?style=for-the-badge&logo=gmail&logoColor=f5f0e8)](mailto:huda.usman202@gmail.com)
 
@@ -143,9 +144,13 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
+---
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 ## 🚀 Featured Projects
 
@@ -156,7 +161,6 @@ I'm a **Final Year** Software Engineering undergraduate at STMU Islamabad with a
 <td width="50%" valign="top">
 
 ### 💧 Water Extractor from Air
-
 Extracts moisture from air and converts it into water droplets using a heatsink and Peltier module.
 
 ![Hardware](https://img.shields.io/badge/Hardware-555?style=flat-square)
@@ -164,11 +168,9 @@ Extracts moisture from air and converts it into water droplets using a heatsink 
 ![Embedded](https://img.shields.io/badge/Embedded-00ACC1?style=flat-square&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🤖 Robot Without Boundaries
-
 Multifunctional robot with face detection, obstacle avoidance & remote control - **Best Project Award, NAMAL 2025**.
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
@@ -177,12 +179,10 @@ Multifunctional robot with face detection, obstacle avoidance & remote control -
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🕵️ DeepFake Image Detector
-
 Real-time CNN system to detect AI-generated fake images with high accuracy.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -190,11 +190,9 @@ Real-time CNN system to detect AI-generated fake images with high accuracy.
 ![CNN](https://img.shields.io/badge/CNN-7B1FA2?style=flat-square&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ⚡ Handwritten Digit Recognition
-
 Custom CNN trained on MNIST with 99.55% accuracy - draw or upload a digit for instant real-time prediction.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -205,12 +203,10 @@ Custom CNN trained on MNIST with 99.55% accuracy - draw or upload a digit for in
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 💊 Medical AI Chatbot
-
 Health assistant chatbot using OpenAI API with OOAD design principles and clean UI.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -218,11 +214,9 @@ Health assistant chatbot using OpenAI API with OOAD design principles and clean 
 ![Tkinter](https://img.shields.io/badge/Tkinter-1565C0?style=flat-square&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 👗 VirtualFit
-
 Android app for virtual clothing try-on with Firebase auth & size estimation API.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -231,23 +225,19 @@ Android app for virtual clothing try-on with Firebase auth & size estimation API
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🗺️ PathFinder
-
 React web app to visualize complex folder hierarchies with recursive components.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🏎️ Maze-Solving Robot
-
 Autonomous robot solving mazes via ultrasonic sensors & pathfinding - **1st Place, CUST 2024**.
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -256,12 +246,10 @@ Autonomous robot solving mazes via ultrasonic sensors & pathfinding - **1st Plac
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🔐 Wazuh Security Integration
-
 Real-time threat detection across Windows, macOS & Linux with dashboards and SIEM.
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-3F88C5?style=flat-square&logoColor=white)
@@ -269,11 +257,9 @@ Real-time threat detection across Windows, macOS & Linux with dashboards and SIE
 ![SIEM](https://img.shields.io/badge/SIEM-D32F2F?style=flat-square&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🧩 Sudoku Solver Game
-
 Modular Java game with recursive backtracking, OOP architecture, hints & difficulty levels.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -282,12 +268,10 @@ Modular Java game with recursive backtracking, OOP architecture, hints & difficu
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 📅 Intelligent STMU Timetable System
-
 Client requirement gathering · BRD & SRS documentation · requirement validation & completeness.
 
 ![SE](https://img.shields.io/badge/Software%20Eng-1565C0?style=flat-square&logoColor=white)
@@ -295,11 +279,9 @@ Client requirement gathering · BRD & SRS documentation · requirement validatio
 ![BRD](https://img.shields.io/badge/BRD-00838F?style=flat-square&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🎤 Speech Practice Arena
-
 Usability evaluation using Nielsen's Heuristics · paper & interactive prototyping · think-aloud testing.
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -308,12 +290,10 @@ Usability evaluation using Nielsen's Heuristics · paper & interactive prototypi
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🧠 Virtual Counselling System
-
 UML modeling · system documentation · manual testing for academic, mental health & parental counselling.
 
 ![UML](https://img.shields.io/badge/UML-1976D2?style=flat-square&logoColor=white)
@@ -321,11 +301,9 @@ UML modeling · system documentation · manual testing for academic, mental heal
 ![Testing](https://img.shields.io/badge/Manual%20Testing-2E7D32?style=flat-square&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📖 Text File Manipulator
-
 Demonstrates core DSA concepts through real-world file operations - custom Stack, Arrays & Singly LinkedList powering a menu-driven Java console app.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -334,12 +312,10 @@ Demonstrates core DSA concepts through real-world file operations - custom Stack
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### ☕ HK Cafe Co. - Digital Cafe & E2E Test Suite
-
 Premium single-page coffee ordering web app paired with a custom Selenium engine that intercepts browser events and streams real-time, color-coded diagnostic logs to the terminal.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -349,11 +325,9 @@ Premium single-page coffee ordering web app paired with a custom Selenium engine
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🧘 StressEQ - AI Stress Assessment & Project Management
-
 AI-powered academic & lifestyle stress assessment and monitoring system, planned and tracked module-by-module in ClickUp with Kanban boards, Gantt charts, dependencies, and workload dashboards.
 
 ![AI](https://img.shields.io/badge/AI-3776AB?style=flat-square&logoColor=white)
@@ -363,12 +337,10 @@ AI-powered academic & lifestyle stress assessment and monitoring system, planned
 
 </td>
 </tr>
-
 <tr>
 <td width="100%" colspan="2" valign="top">
 
 ### 📅 Personal Booking & Studio Management App
-
 Offline-first Flutter & Dart booking app for a personal styling studio. Uses Hive NoSQL for local caching, a custom conflict-detection algorithm to prevent double bookings, a screenshot-based invoice rendering engine for shareable receipts, FL Chart dashboards for revenue tracking, and timezone-aware local notifications for appointment reminders.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -378,7 +350,6 @@ Offline-first Flutter & Dart booking app for a personal styling studio. Uses Hiv
 
 </td>
 </tr>
-
 </table>
 
 </div>
@@ -399,17 +370,12 @@ Offline-first Flutter & Dart booking app for a personal styling studio. Uses Hiv
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huda-usman&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=38BDF8&text_color=f5f0e8&icon_color=FBB040"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huda-usman&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=f5f0e8"/>
-
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=huda-usman&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=38BDF8&text_color=f5f0e8&icon_color=FBB040"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=huda-usman&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=f5f0e8"/>
 </div>
 
 <div align="center">
-
   <img src="https://streak-stats.demolab.com/?user=huda-usman&hide_border=true&background=00000000&ring=38BDF8&fire=FBB040&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=f5f0e8&currStreakNum=f5f0e8&sideNums=f5f0e8" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
